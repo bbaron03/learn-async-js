@@ -1,1 +1,9 @@
 Explain the code execution based on the order of the messages logged in src/quiz/promise-2darray.txt.
+Enter the promise and print sum called
+pass over timeout call and print returning from sum
+Enter the second promise and print sum called again
+reject the second promise immediately due to invalid input.
+return from the second promise.
+catch the error in catch block for the second promise
+timeout expires in the first promise and resolves
+print out computed sum from the then block on promise 1.
